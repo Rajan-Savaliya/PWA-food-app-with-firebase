@@ -1,0 +1,22 @@
+//1>serive work register --check browse is uspoort or not
+//2>serive work install
+//activated
+//fetch event
+
+
+
+
+
+
+
+pwa in see amulater==>       10.0.2.2:5500
+
+
+
+
+
+
+
+
+pwa staick file chage something ==> 
+      sw.js==>staticeCacheName=> name v1/v2/v3 chage it 
